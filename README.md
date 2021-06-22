@@ -41,13 +41,13 @@ The mango dataset is trained on mobilenetv2 and for pear a custom model is used 
 
 ### References
 1. Mango dataset :
-* http://dx.doi.org/10.17632/fmfncxjz3v.1#folder-dbe8ca34-9ddb-4470-b6fc-cdfddbd45e69 \
-* http://dx.doi.org/10.17632/nsjggt7tyz.1#folder-162bec68-dd7a-4dcf-9578-c88c4265a001 \
+  * http://dx.doi.org/10.17632/fmfncxjz3v.1#folder-dbe8ca34-9ddb-4470-b6fc-cdfddbd45e69 \
+  * http://dx.doi.org/10.17632/nsjggt7tyz.1#folder-162bec68-dd7a-4dcf-9578-c88c4265a001 \
 2. Banana dataset :
-* https://github.com/giovannipcarvalho/banana-ripeness-classification/tree/master/data
+  * https://github.com/giovannipcarvalho/banana-ripeness-classification/tree/master/data
 3. Pear dataset :
-* Google images
+  * Google images
 
 4. For building android app :
-* https://github.com/tusharck/Object-Detector-Android-App-Using-PyTorch-Mobile-Neural-Network
+  * https://github.com/tusharck/Object-Detector-Android-App-Using-PyTorch-Mobile-Neural-Network
 
