@@ -6,6 +6,10 @@ To automate the process of sorting of fruits on the basis of their quality and r
 ### Inspiration for Idea
 Every year tons of fruits are wasted in the process of them reaching from farmers to retailers and retailers to consumers because of lack of awareness regarding freshness of fruits and vegetables. In large scale factories where huge processing and packaging of fruits is required everyday, then picking fruits based on instincts and manual check is both inaccurate and time consuming. 
 
+### Proposed Solution
+We have focused on two fruits, mango and pear.
+Using computer vision techniques we have successfully trained our model to predict the ripeness and quality of mango as well as predict the quality of pear. The model can be easily incorporated into any existing systems that require processing and sorting at a very large scale.
+
 ### Existing solutions in the Market 
 
 1.Clarifruit \
@@ -14,11 +18,6 @@ The Israeli startup Aclar Tech   has developed a Mobile App that allows moni
 2.Machine Learning: Using Algorithm to Sort Fruit at Amazon : \
 The automated ripeness detection system consists of a conveyor belt that transports the food in containers to a particular sensor. The sensor looks like a normal camera, but it can capture information which is invisible to the human eye. We teach the machine what good and bad products look like by inputting new product variants on a daily basis. The products are photographed and made available to the machine in the shape of data. That way, the computer gradually understands the quality standards.
 The fresh produce is divided into four categories: “OK”, “Damaged”, “Badly damaged” and “Expired”. Containers of the different ripeness categories are randomly offered to the machine.
-
-
-### Proposed Solution
-We have focused on two fruits, mango and pear.
-Using computer vision techniques we have successfully trained our model to predict the ripeness and quality of mango as well as predict the quality of pear. The model can be easily incorporated into any existing systems that require processing and sorting at a very large scale.
 
 
 ### Brief Description
