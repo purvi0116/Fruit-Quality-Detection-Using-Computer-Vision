@@ -13,7 +13,7 @@ Using computer vision techniques we have successfully trained our model to predi
 ### Existing solutions in the Market 
 
 1.Clarifruit \
-The Israeli startup Aclar Tech   has developed a Mobile App that allows monitoring, in real time, the ripeness, freshness, and quality of fruit and vegetables. With the Aclaro meter, users scan the fruit with their built-in smartphone camera and with a standard portable molecular sensor. This captures a large set of measurements about the fruit and its environment, revealing data like the fruit’s sugar content, acidity, firmness, weight and color, as well as its GPS location and weather conditions at the time of sampling.\
+The Israeli startup Aclar Tech   has developed a Mobile App that allows monitoring, in real time, the ripeness, freshness, and quality of fruit and vegetables. With the Aclaro meter, users scan the fruit with their built-in smartphone camera and with a standard portable molecular sensor. This captures a large set of measurements about the fruit and its environment, revealing data like the fruit’s sugar content, acidity, firmness, weight and color, as well as its GPS location and weather conditions at the time of sampling.
 
 2.Machine Learning: Using Algorithm to Sort Fruit at Amazon : \
 The automated ripeness detection system consists of a conveyor belt that transports the food in containers to a particular sensor. The sensor looks like a normal camera, but it can capture information which is invisible to the human eye. We teach the machine what good and bad products look like by inputting new product variants on a daily basis. The products are photographed and made available to the machine in the shape of data. That way, the computer gradually understands the quality standards.
@@ -40,8 +40,8 @@ The mango dataset is trained on mobilenetv2 and for pear a custom model is used 
 
 ### References
 * Mango dataset :
-  * http://dx.doi.org/10.17632/fmfncxjz3v.1#folder-dbe8ca34-9ddb-4470-b6fc-cdfddbd45e69 \
-  * http://dx.doi.org/10.17632/nsjggt7tyz.1#folder-162bec68-dd7a-4dcf-9578-c88c4265a001 \
+  * http://dx.doi.org/10.17632/fmfncxjz3v.1#folder-dbe8ca34-9ddb-4470-b6fc-cdfddbd45e69 
+  * http://dx.doi.org/10.17632/nsjggt7tyz.1#folder-162bec68-dd7a-4dcf-9578-c88c4265a001 
 * Banana dataset :
   * https://github.com/giovannipcarvalho/banana-ripeness-classification/tree/master/data
 * Pear dataset :
